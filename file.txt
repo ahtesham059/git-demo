@@ -10,10 +10,6 @@ hello 2nd commit for this file.
 hello 2nd commit for this file.
 hello 2nd commit for this file.
 
-
-
-
-
 hello 3rd commit for this file.
 hello 3rd commit for this file.
 hello 3rd commit for this file.
